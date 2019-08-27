@@ -18,6 +18,16 @@ img {
   margin-right: auto;
 }
 
+// utility classes for modifying how images work
+.img-caption {
+  text-align: center;
+  color: gray;
+  font-style: italic;
+}
+.img-caption-link:hover {
+  text-decoration: underline;
+}
+
 // Tables
 table,
 th,
