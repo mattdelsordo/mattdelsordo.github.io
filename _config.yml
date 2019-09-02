@@ -6,7 +6,7 @@
 title: Matt Blogsordo
 email: mattdelsordo@gmail.com
 description: Matt DelSordo's Good Blog
-url:
+url: https://blog.mattdelsordo.com
 keywords: ["matt", "delsordo"]
 
 #
@@ -51,7 +51,7 @@ owner:
   github: mattdelsordo
   # gitlab: #username
   # stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  # linkedin: #username
+  linkedin: mattdelsordo
   # skype: #username
   # xing: #username
   # instagram: #username
