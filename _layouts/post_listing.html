@@ -34,14 +34,6 @@ layout: default
 
     </header>
 
-    {% if post.excerpt %}
-    <div class="post-description">
-      <p>
-        {{ post.excerpt }}
-      </p>
-    </div>
-    {% endif %}
-
     {% if post.image.feature %}
     <div class="post-image-feature">
       <img src=
@@ -56,6 +48,15 @@ layout: default
       <span class="image-credit">Photo Credit: <a href="{{ post.image.creditlink }}">{{ post.image.credit }}</a></span>
       {% endif %}
     </div><!-- /.image-wrap -->
+    {% endif %}
+
+    {% if post.excerpt %}
+    <div class="post-description">
+      <p>
+        {{ post.excerpt }}
+      </p>
+      <a href="{{ site.url }}{{ post.url }}">Read on</a>
+    </div>
     {% endif %}
 
 </section>
