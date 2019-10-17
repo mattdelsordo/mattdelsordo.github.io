@@ -5,4 +5,7 @@ $(document).ready(function() {
     });
     // adjust link hover for captions
     $('.img-caption').parent('a').addClass('img-caption-link');
+
+    // hackily center iframes
+    $('iframe').wrap($(`<div style='width: 100%; text-align: center;'></div>`))
 });
