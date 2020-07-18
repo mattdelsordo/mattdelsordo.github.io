@@ -26,7 +26,7 @@ Most games are the classic "I bought this during a Steam Sale and then never pla
 | Dr Langeskov, The Tiger, and The Terribly Cursed Emerald - A Whirlwind Heist |                                                     |
 | Fallout 2                                                                    |                                                     |
 | Firewatch                                                                    |                                                     |
-| Half Life                                                                    |                                                     |
+| Half Life                                                                    | [17 Jul 2020]({% post_url 2020-07-17-halflife %})   |
 | Half Life 2                                                                  |                                                     |
 | Kids                                                                         |                                                     |
 | Star Wars: Knights of the Old Republic                                       |                                                     |
