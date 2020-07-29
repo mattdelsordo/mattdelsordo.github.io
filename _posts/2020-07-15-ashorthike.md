@@ -10,6 +10,8 @@ image:
   feature: vgbacklog/ashorthike.png
 ---
 
+**[[ backlog master post ]](% post_url 2020-07-15-vg-backlog %)**
+
 This game is wonderful. I went in with basically 0 expectations and here were my reactions, in order:
 
 1. Ooh, this art style is cute.
