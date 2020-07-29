@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Matt's Video Game Backlog #2: Half Life"
-date: 2020-07-17 23:00:00
+title: "Matt's Video Game Backlog #3: Donut County"
+date: 2020-07-28 23:00:00
 categories: [backlog]
-tags: [media, video game, half life]
+tags: [media, video game, donut county]
 comments: true
 excerpt_separator: <!--more-->
 image:
-  feature: vgbacklog/halflife.jpg
+  feature: vgbacklog/donutcounty.jpg
 ---
 
 **[[ backlog master post ]](% post_url 2020-07-15-vg-backlog %)**
 
-_Half Life_ surprised me with how immersive it is for a game that came out in 1998. Sure, there are barely enough polygons to go around, but the simple gameplay, uncluttered UI, and real-time events go a huge way towards making you feel like you're inhabiting the space of the game. This game has no menus! Wild! Regarding the simple gameplay, here's an exhaustive list of the things this game lets you do:
+<!-- _Half Life_ surprised me with how immersive it is for a game that came out in 1998. Sure, there are barely enough polygons to go around, but the simple gameplay, uncluttered UI, and real-time events go a huge way towards making you feel like you're inhabiting the space of the game. This game has no menus! Wild! Regarding the simple gameplay, here's an exhaustive list of the things this game lets you do:
 
 - move
 - jump
@@ -24,4 +24,4 @@ I think it's really cool how inventive the developers were able to be with the b
 
 On that note, the environmental storytelling is impressive. There isn't a ton of dialogue and most story events just, happen, to you, which gives you a lot of responsibility as a player to be engaged in the action. Every once in a while you'll see a security guard get pulled into a crack in the wall and get consumed by un unseen alien, which is really unsettling and well-done. The story beat where the scientists call in the military, only for the military to start opening fire on the scientists, and then half of the baddies you have to kill become the Feds... it was a really effective "oh shit" moment. I honestly wasn't sure if I was going to like this game because I'm not a huge FPS guy, but I love how narratively driven this game is. It has levels in the classic sort of arcade sense, but they're seamlessly cut together in such a way that it feels like a single continuous adventure, rather than discrete episodes punctuated by flashy cutscenes that do the heavy-lifting for the plot.
 
-_Half Life_ made me think a lot about game design. I was two years old when this game came out so I can only imagine what this was like to play for the first time. It's neat to see how developers have always been innovating, because while in a lot of ways games have really advanced, there's something about the relative simplicity here that is very very fun. It's like the artisanal vanilla ice cream of video games. As someone who gets really into exploiting any complex system that a game has, it's nice to play a game where there aren't any and you just sort of... play the game, with no distractions or loss of momentum. I'm looking forward to eventually playing _Half Life 2_ to see how the developers expanded on the first game into something that is so highly regarded in the Internet Gamer collective consciousness.
+_Half Life_ made me think a lot about game design. I was two years old when this game came out so I can only imagine what this was like to play for the first time. It's neat to see how developers have always been innovating, because while in a lot of ways games have really advanced, there's something about the relative simplicity here that is very very fun. It's like the artisanal vanilla ice cream of video games. As someone who gets really into exploiting any complex system that a game has, it's nice to play a game where there aren't any and you just sort of... play the game, with no distractions or loss of momentum. I'm looking forward to eventually playing _Half Life 2_ to see how the developers expanded on the first game into something that is so highly regarded in the Internet Gamer collective consciousness. -->
