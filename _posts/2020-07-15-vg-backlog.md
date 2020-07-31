@@ -50,5 +50,5 @@ Most games are the classic "I bought this during a Steam Sale and then never pla
 | The Stillness of the Wind                                                    |                                                     |
 | The Witcher 2                                                                |                                                     |
 | Tonight We Riot                                                              |                                                     |
-| Wargroove                                                                    |                                                     |
+| Wargroove                                                                    | [01 Aug 2020]({% post_url 2020-08-01-wargroove %})  |
 | Yooka-Laylee                                                                 |                                                     |
