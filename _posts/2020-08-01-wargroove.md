@@ -10,7 +10,7 @@ image:
   feature: vgbacklog/wargroove.jpg
 ---
 
-**[[ backlog master post ]](% post_url 2020-07-15-vg-backlog %)**
+**[[ backlog master post ]]({% post_url 2020-07-15-vg-backlog %})**
 
 Groovy! I have mixed feelings about this one. On one hand, the graphics and animations are GORGEOUS. I love this game's aesthetic, it's well done and well suited to the genre. I really missed the tiny sprite art dudes when I played _Fire Emblem: Three Houses_, and playing this was like, ooh baby, the tiny dudes are back. There's just so much character to how each unit type attacks and defends. I love how much flavor each faction's units have even though they're mechanically identical, for example the dogs:
 
