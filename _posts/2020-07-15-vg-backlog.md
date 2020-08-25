@@ -40,7 +40,7 @@ Most games are the classic "I bought this during a Steam Sale and then never pla
 | Outer Wilds                                                                  |                                                     |
 | Overland                                                                     |                                                     |
 | Oxenfree                                                                     |                                                     |
-| Pikuniku                                                                     |                                                     |
+| Pikuniku                                                                     | [24 Aug 2020]({% post_url 2020-08-24-pikuniku %})   |
 | Psychonauts                                                                  |                                                     |
 | Quadrilateral Cowboy                                                         |                                                     |
 | Slay the Spire                                                               |                                                     |
