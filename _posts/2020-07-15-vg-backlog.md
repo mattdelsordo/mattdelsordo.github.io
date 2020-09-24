@@ -26,7 +26,7 @@ Most games are the classic "I bought this during a Steam Sale and then never pla
 | Deus Ex                                                                      |                                                         |
 | **Donut County**                                                             | [**28 Jul 2020**](% post_url 2020-07-28-donutcounty %)  |
 | Dr Langeskov, The Tiger, and The Terribly Cursed Emerald - A Whirlwind Heist |                                                         |
-| Fallout 2                                                                    |                                                         |
+| **Fallout 2**                                                                | [**24 Sept 2020**]({% post_url 2020-09-24-fallout2 %})  |
 | **Firewatch**                                                                | [**13 Aug 2020**]({% post_url 2020-08-13-firewatch %})  |
 | **Half Life**                                                                | [**17 Jul 2020**]({% post_url 2020-07-17-halflife %})   |
 | Half Life 2                                                                  |                                                         |
