@@ -97,3 +97,21 @@
     }
   }
 }
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-image{
+  flex: 1;
+}
+
+.flex-content {
+  flex: 2;
+  margin-left: 1em;
+
+  p:nth-of-type(1) {
+    margin-top: 0;
+  }
+}
