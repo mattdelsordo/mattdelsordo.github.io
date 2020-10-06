@@ -15,41 +15,41 @@ I've been playing a lot of relaxing and comfy games for the past couple of month
 Most games are the classic "I bought this during a Steam Sale and then never played it". The other games are from itch.io's recent Bundle for Racial Justice and Equality. In order to actually get through all of these, I plan to play each game for at least four hours, or until I beat the game, whichever is shorter. The thought behind this is that, A) I don't want to spend too much time on each game but also, B) most of these games are considered classics, so I want to play them long enough to know what their deal is before bailing because they feel old or take a while to get into. In all probability I'll dislike some of these enough to bail early, so I guess we'll see. Another caveat is that, in the worst case, this computes out to over six entire days of my life. So it'll be a while. Really though, the point is to make a guide for myself to consume media in a more thoughtful way, rather than just mindlessly cracking open _Pokémon Emerald_ for the 30th playthrough of my life. Finally, I want to write a little microreview of each of these games in order to force myself to think critical thoughts about these games and synthesize how I feel about them. I've added links to all the posts I've done below, for your perusal:
 
 {: .highlight}
-| Game                                                                         | Date                                                    |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------- |
-| 2064: Read Only Memories                                                     |                                                         |
-| A Mortician's Tale                                                           |                                                         |
-| **A Short Hike**                                                             | [**15 Jul 2020**]({% post_url 2020-07-15-ashorthike %}) |
-| **Bioshock**                                                                 | [**20 Sept 2020**]({% post_url 2020-09-20-bioshock %})  |
-| Braid                                                                        |                                                         |
-| Catlateral Damage                                                            |                                                         |
-| Deus Ex                                                                      |                                                         |
-| **Donut County**                                                             | [**28 Jul 2020**](% post_url 2020-07-28-donutcounty %)  |
-| Dr Langeskov, The Tiger, and The Terribly Cursed Emerald - A Whirlwind Heist |                                                         |
-| **Fallout 2**                                                                | [**24 Sept 2020**]({% post_url 2020-09-24-fallout2 %})  |
-| **Firewatch**                                                                | [**13 Aug 2020**]({% post_url 2020-08-13-firewatch %})  |
-| **Half Life**                                                                | [**17 Jul 2020**]({% post_url 2020-07-17-halflife %})   |
-| Half Life 2                                                                  |                                                         |
-| Kids                                                                         |                                                         |
-| Star Wars: Knights of the Old Republic                                       |                                                         |
-| Long-Gone Days                                                               |                                                         |
-| MewnBase                                                                     |                                                         |
-| Minit                                                                        |                                                         |
-| Monster Hunter: World                                                        |                                                         |
-| Night in the Woods                                                           |                                                         |
-| OneShot                                                                      |                                                         |
-| Outer Wilds                                                                  |                                                         |
-| Overland                                                                     |                                                         |
-| Oxenfree                                                                     |                                                         |
-| **Pikuniku**                                                                 | [**24 Aug 2020**]({% post_url 2020-08-24-pikuniku %})   |
-| Psychonauts                                                                  |                                                         |
-| Quadrilateral Cowboy                                                         |                                                         |
-| Slay the Spire                                                               |                                                         |
-| ~~Speed Dating for Ghosts~~                                                  | Couldn't get it to run on my laptop :(                  |
-| Sunless Sea                                                                  |                                                         |
-| The Stanley Parable                                                          |                                                         |
-| The Stillness of the Wind                                                    |                                                         |
-| The Witcher 2                                                                |                                                         |
-| Tonight We Riot                                                              |                                                         |
-| **Wargroove**                                                                | [**01 Aug 2020**]({% post_url 2020-08-01-wargroove %})  |
-| Yooka-Laylee                                                                 |                                                         |
+| Game                                                                             | Date                                                                      |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2064: Read Only Memories                                                         |                                                                           |
+| A Mortician's Tale                                                               |                                                                           |
+| **A Short Hike**                                                                 | [**15 Jul 2020**]({% post_url 2020-07-15-ashorthike %})                   |
+| **Bioshock**                                                                     | [**20 Sept 2020**]({% post_url 2020-09-20-bioshock %})                    |
+| Braid                                                                            |                                                                           |
+| Catlateral Damage                                                                |                                                                           |
+| Deus Ex                                                                          |                                                                           |
+| **Donut County**                                                                 | [**28 Jul 2020**](% post_url 2020-07-28-donutcounty %)                    |
+| **Dr Langeskov, The Tiger, and The Terribly Cursed Emerald - A Whirlwind Heist** | [**05 Oct 2020**](% post_url 2020-10-05-langeskov %)                      |
+| **Fallout 2**                                                                    | [**24 Sept 2020**]({% post_url 2020-09-24-fallout2 %})                    |
+| **Firewatch**                                                                    | [**13 Aug 2020**]({% post_url 2020-08-13-firewatch %})                    |
+| **Half Life**                                                                    | [**17 Jul 2020**]({% post_url 2020-07-17-halflife %})                     |
+| Half Life 2                                                                      |                                                                           |
+| Kids                                                                             |                                                                           |
+| Star Wars: Knights of the Old Republic                                           |                                                                           |
+| Long-Gone Days                                                                   |                                                                           |
+| MewnBase                                                                         |                                                                           |
+| Minit                                                                            |                                                                           |
+| Monster Hunter: World                                                            |                                                                           |
+| Night in the Woods                                                               |                                                                           |
+| OneShot                                                                          |                                                                           |
+| Outer Wilds                                                                      |                                                                           |
+| Overland                                                                         |                                                                           |
+| Oxenfree                                                                         |                                                                           |
+| **Pikuniku**                                                                     | [**24 Aug 2020**]({% post_url 2020-08-24-pikuniku %})                     |
+| Psychonauts                                                                      |                                                                           |
+| Quadrilateral Cowboy                                                             |                                                                           |
+| Slay the Spire                                                                   |                                                                           |
+| ~~Speed Dating for Ghosts~~                                                      | Couldn't get it to run on my laptop :(                                    |
+| Sunless Sea                                                                      |                                                                           |
+| ~~The Stanley Parable~~                                                          | Couldn't get it to run on my laptop :( (but Dr. Langeskov worked fine???) |
+| The Stillness of the Wind                                                        |                                                                           |
+| The Witcher 2                                                                    |                                                                           |
+| Tonight We Riot                                                                  |                                                                           |
+| **Wargroove**                                                                    | [**01 Aug 2020**]({% post_url 2020-08-01-wargroove %})                    |
+| Yooka-Laylee                                                                     |                                                                           |
