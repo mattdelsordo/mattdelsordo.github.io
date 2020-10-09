@@ -19,15 +19,6 @@
   }
 }
 
-.image-credit {
-  float: right;
-  font-weight: bold;
-  font-style: italic;
-  color: $info;
-  font-size: 13px;
-  padding-right: 20px;
-}
-
 // Post Section
 section.post {
 	margin-bottom: 80px;
@@ -147,11 +138,25 @@ a.read-more {
     vertical-align: middle;
   }
 }
+
 .post-image-feature {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
   margin-bottom: 40px;
-  .feature-image {
+
+  img {
     max-width: 100%;
     max-height: 500px;
+  }
+
+  span {
+    align-self: right;
+    font-weight: bold;
+    font-style: italic;
+    color: $info;
+    font-size: 13px;
+    padding-right: 20px;
   }
 }
 
