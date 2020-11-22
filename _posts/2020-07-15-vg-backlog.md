@@ -38,7 +38,7 @@ Most games are the classic "I bought this during a Steam Sale and then never pla
 | Monster Hunter: World                                                            |                                                                           |
 | Night in the Woods                                                               |                                                                           |
 | OneShot                                                                          |                                                                           |
-| Outer Wilds                                                                      |                                                                           |
+| **Outer Wilds**                                                                  | [**21 Nov 2020**]({% post_url 2020-11-21-outerwilds %})                   |
 | Overland                                                                         |                                                                           |
 | Oxenfree                                                                         |                                                                           |
 | **Pikuniku**                                                                     | [**24 Aug 2020**]({% post_url 2020-08-24-pikuniku %})                     |
