@@ -23,7 +23,7 @@ Most games are the classic "I bought this during a Steam Sale and then never pla
 | **Bioshock**                                                                     | [**20 Sept 2020**]({% post_url 2020-09-20-bioshock %})                    |
 | Braid                                                                            |                                                                           |
 | Catlateral Damage                                                                |                                                                           |
-| Deus Ex                                                                          |                                                                           |
+| **Deus Ex**                                                                      | [**11 Jan 2021**]({% post_url 2021-01-11-deusex %})                       |
 | **Donut County**                                                                 | [**28 Jul 2020**](% post_url 2020-07-28-donutcounty %)                    |
 | **Dr Langeskov, The Tiger, and The Terribly Cursed Emerald - A Whirlwind Heist** | [**05 Oct 2020**](% post_url 2020-10-05-langeskov %)                      |
 | **Fallout 2**                                                                    | [**24 Sept 2020**]({% post_url 2020-09-24-fallout2 %})                    |
