@@ -36,7 +36,7 @@ Most games are the classic "I bought this during a Steam Sale and then never pla
 | MewnBase                                                                         |                                                                           |
 | Minit                                                                            |                                                                           |
 | Monster Hunter: World                                                            |                                                                           |
-| Night in the Woods                                                               |                                                                           |
+| **Night in the Woods**                                                           | [**15 Jan 2021**]({% post_url 2021-01-15-nitw %})                         |
 | OneShot                                                                          |                                                                           |
 | **Outer Wilds**                                                                  | [**21 Nov 2020**]({% post_url 2020-11-21-outerwilds %})                   |
 | Overland                                                                         |                                                                           |
