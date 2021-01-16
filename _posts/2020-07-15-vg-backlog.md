@@ -44,7 +44,7 @@ Most games are the classic "I bought this during a Steam Sale and then never pla
 | **Pikuniku**                                                                     | [**24 Aug 2020**]({% post_url 2020-08-24-pikuniku %})                     |
 | Psychonauts                                                                      |                                                                           |
 | Quadrilateral Cowboy                                                             |                                                                           |
-| Slay the Spire                                                                   |                                                                           |
+| **Slay the Spire**                                                               | [**16 Jan 2021**]({% post_url 2021-01-16-slaythespire %})                 |
 | ~~Speed Dating for Ghosts~~                                                      | Couldn't get it to run on my laptop :(                                    |
 | Sunless Sea                                                                      |                                                                           |
 | ~~The Stanley Parable~~                                                          | Couldn't get it to run on my laptop :( (but Dr. Langeskov worked fine???) |
