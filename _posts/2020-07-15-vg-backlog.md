@@ -30,7 +30,7 @@ Most games are the classic "I bought this during a Steam Sale and then never pla
 | **Firewatch**                                                                    | [**13 Aug 2020**]({% post_url 2020-08-13-firewatch %})                    |
 | **Half Life**                                                                    | [**17 Jul 2020**]({% post_url 2020-07-17-halflife %})                     |
 | Half Life 2                                                                      |                                                                           |
-| Kids                                                                             |                                                                           |
+| **Kids**                                                                         | [**18 Jan 2021**]({% post_url 2021-01-18-kids %})                         |
 | Star Wars: Knights of the Old Republic                                           |                                                                           |
 | Long-Gone Days                                                                   |                                                                           |
 | MewnBase                                                                         |                                                                           |
