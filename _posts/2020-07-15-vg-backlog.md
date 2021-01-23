@@ -35,7 +35,7 @@ Most games are the classic "I bought this during a Steam Sale and then never pla
 | Long-Gone Days                                                                   |                                                                           |
 | MewnBase                                                                         |                                                                           |
 | Minit                                                                            |                                                                           |
-| Monster Hunter: World                                                            |                                                                           |
+| **Monster Hunter: World**                                                        | [**23 Jan 2021**]({% post_url 2021-01-23-mhw %})                         |
 | **Night in the Woods**                                                           | [**15 Jan 2021**]({% post_url 2021-01-15-nitw %})                         |
 | OneShot                                                                          |                                                                           |
 | **Outer Wilds**                                                                  | [**21 Nov 2020**]({% post_url 2020-11-21-outerwilds %})                   |
