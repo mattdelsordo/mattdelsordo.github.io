@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: backlog
 title: "Matt's Video Game Backlog #5: Firewatch"
 date: 2020-08-13 23:00:00
 categories: [backlog]
@@ -9,8 +9,6 @@ excerpt_separator: <!--more-->
 image:
   feature: vgbacklog/firewatch.jpg
 ---
-
-**[[ backlog master post ]]({% post_url 2020-07-15-vg-backlog %})**
 
 The second book club game! _Firewatch_ is a work of art that I don't want to talk about without spoilers, so don't click `read more` if you haven't played the game. IF you haven't played _Firewatch_, I recommend it.
 
