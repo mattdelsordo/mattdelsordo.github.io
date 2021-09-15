@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Joseph and the Amazing Technicolor Dreamcoat (Sparknotes)"
-date:   2019-12-27 14:00:00
-categories: [misc]
+title: "Joseph and the Amazing Technicolor Dreamcoat (Sparknotes)"
+date: 2019-12-27 14:00:00
 tags: [media, history, joseph, andrew lloyd webber, old testament]
 comments: true
 unlisted: 1

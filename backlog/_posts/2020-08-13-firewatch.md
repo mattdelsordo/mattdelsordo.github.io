@@ -2,7 +2,6 @@
 layout: backlog
 title: "Matt's Video Game Backlog #5: Firewatch"
 date: 2020-08-13 23:00:00
-categories: [backlog]
 tags: [media, video game, firewatch]
 comments: true
 excerpt_separator: <!--more-->

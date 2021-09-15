@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Comme d'habitude"
-date:   2019-10-04 20:30:00
-categories: [post]
+title: "Comme d'habitude"
+date: 2019-10-04 20:30:00
 tags: [media, music, frank sinatra, claude francois]
 comments: true
 excerpt_separator: <!--more-->
@@ -26,6 +25,7 @@ hits you, it tethers this hyper-individualism to masculinity, like you aren't a 
 LUCKILY FOR ME there are in fact other lyrics! _My Way_ was based on the French song _Comme d'habitude_, popularized by French pop star Claude François (possibly the Frenchest name of all time). Go listen to the link up top if you haven't already - I discovered it earlier this year and it went straight on my general-purpose playlist. The instrumental of _Comme d'habitude_ is basically identical to that in _My Way_, but the lyrics are entirely different (beyond being in French), both in theme and structure. They deal with the slow decay of a relationship, and falling out of love and having to act like everything is fine even as you and your partner drift further and further apart. A lot more (alive) people have gone through this experience than have reminisced on their death bed. It's a lot easier to relate to the just sort of _rust_ of this feeling; nothing has really abruptly changed, things have just stagnated, and the monotonous passage of time is chipping away at you. François' repeated lament of "comme d'habitude" ("as usual") lends the lyrics this cynicism and give you the sense of the passage of time at hand. The instrumental, here in its original, purpose-made context, further contributes to the cynical tone, there's almost this like emotional dissonance where, despite the major key of the subject's life and the fanfares of the trumpets, he just can't bring himself to be happy in his relationship or even do anything to end it. François really puts some stank on some of the final lines as well which I appreciate. His voice takes the song through stages of resignation, to despair, and finally to desperate anger. I don't know why I like this sort of everyday sadness in my content, where, like, nothing overtly terrible has happened, it's just the passage of time has taken its toll and life didn't play out as expected. I find it very cathartic and I want it injected straight into my veins.
 
 The history of these two songs is pretty interesting, and here I'll synthesize the songs' [wikipedia](https://en.wikipedia.org/wiki/My_Way) [articles](https://en.wikipedia.org/wiki/Comme_d%27habitude) for you. Claude François first recorded and released the song in 1968, at which point it got very popular in France. There was an initiative to craft an English-language version right off the bat in that year, with [David Bowie being one of many who were conscripted to write potential alternative lyrics](https://www.youtube.com/watch?v=dd-b8GbOPKg). None of those went anywhere, but in 1969 songwriter Paul Anka heard _Comme d'habitude_ on French TV and bought the rights to the music. Crucially, he did _not_ buy the rights to the lyrics, which is why the two songs are so thematically different. _My Way_ is not a copy or rip-off or English-version of _Comme d'habitude_, they are two songs that share the same tune. Anka wrote the lyrics for _My Way_ specifically for Frank Sinatra and then it became Sinatra's most well-known song. It just kills me, though, that _My Way_ is so different, because I feel like you could do a reasonable translation of _Comme d'habitude_ into English that preserved at least the general themes and meter of the original. English and French aren't so different that they can't describe the same concepts in similar amounts of syllables, surely. So, I tried doing this myself, ft. MetroLyrics, Google Translate, and what French knowledge I've managed to retain. I think a professional, bilingual songwriter could probably do a better job, but I did this in like a half-hour and you can at least sing the lyrics to the tune and they more-or-less fit fine. A couple of notes:
+
 1. I went with "just like always" instead of "as usual" because it's more or less the same sentiment and it better fits the meter. Maybe "just as usual" would be better? Do people say that? I feel like "always" implies some degree of, like, eternity and immutability, whereas "usual" better matches the vibe that this is a routine that has developed.
 2. If it sounds like this man's partner is just straight up dead at the beginning and he lives with a corpse in his house all the time... maybe the French is more unambiguous, but as far as I can tell the French lyrics are like this too.
 3. The phrase "all day I play pretend" is _way_ more verbose in French for whatever reason, but that was the worst instance of having to stretch something out to fit the meter. In English you could save enough space to fit a whole extra idea in there.
@@ -82,7 +82,7 @@ Moi je reviendrai
 comme d'habitude
 
 Toi / tu seras sortie
-Pas encore rentrée 
+Pas encore rentrée
 comme d'habitude
 
 Tout seul / j'irai me coucher

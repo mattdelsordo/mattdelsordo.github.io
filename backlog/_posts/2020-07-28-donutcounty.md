@@ -2,7 +2,6 @@
 layout: backlog
 title: "Matt's Video Game Backlog #3: Donut County"
 date: 2020-07-28 23:00:00
-categories: [backlog]
 tags: [media, video game, donut county]
 comments: true
 excerpt_separator: <!--more-->

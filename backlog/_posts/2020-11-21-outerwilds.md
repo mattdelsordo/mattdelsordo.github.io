@@ -2,7 +2,6 @@
 layout: backlog
 title: "Matt's Video Game Backlog #10: Outer Wilds"
 date: 2020-11-21 20:00:00
-categories: [backlog]
 tags: [media, video game, outer wilds]
 comments: true
 excerpt_separator: <!--more-->

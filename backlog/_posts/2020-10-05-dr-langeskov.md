@@ -2,7 +2,6 @@
 layout: backlog
 title: "Matt's Video Game Backlog #9: Dr Langeskov, The Tiger, and The Terribly Cursed Emerald - A Whirlwind Heist"
 date: 2020-10-05 23:00:00
-categories: [backlog]
 tags: [media, video game, langeskov]
 comments: true
 excerpt_separator: <!--more-->

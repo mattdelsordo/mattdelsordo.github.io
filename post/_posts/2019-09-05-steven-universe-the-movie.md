@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "\"Steven Universe: The Movie\" Was Good"
-date:   2019-09-05 21:30:00
-categories: [post]
+title: '"Steven Universe: The Movie" Was Good'
+date: 2019-09-05 21:30:00
 tags: [media, tv, steven universe, itrn]
 comments: true
 excerpt_separator: <!--more-->
 image:
-    feature: character-development.jpeg
+  feature: character-development.jpeg
 ---
 
 _Steven Universe: The Movie_ came out the other day, and I want to talk about it. I really enjoyed it, it was fun, it made me feel some feelings, had the good slice-of-life-but-also-aliens humor that I crave, and the soundtrack was full of bops. But it was also kind of... weird, structurally. The plot made use of two tropes that I conversely hate and love to feel sad about, so click on this post if you want to read about that because I'm about to spoil basically the entire show.

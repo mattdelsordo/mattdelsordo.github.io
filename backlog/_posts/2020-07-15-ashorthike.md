@@ -2,7 +2,6 @@
 layout: backlog
 title: "Matt's Video Game Backlog #1: A Short Hike"
 date: 2020-07-15 23:00:00
-categories: [backlog]
 tags: [media, video game, indie, a short hike]
 comments: true
 excerpt_separator: <!--more-->
