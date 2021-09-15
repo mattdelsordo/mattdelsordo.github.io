@@ -2,7 +2,6 @@
 layout: post
 title: "Matt's Video Game Backlog #0"
 date: 2020-07-15 22:59:00
-categories: [backlog]
 tags: [media, video game]
 comments: true
 excerpt_separator: <!--more-->
