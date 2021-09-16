@@ -3,12 +3,12 @@ layout: default
 ---
 
 {% for post in site.posts %}
-{% if post.unlisted != 1 %}
-{% if post.categories[0] == "backlog" %}
-<!-- backlog posts have a different layout -->
-{% include post_listing/backlog.html post=post %}
-{% else %}
-{% include post_listing/post.html post=post %}
-{% endif %}
-{% endif %}
+  {% if post.unlisted != 1 %}
+    {% if post.categories[0] == "backlog" %}
+      <!-- backlog posts have a different layout -->
+      {% include post_listing/backlog.html post=post %}
+    {% else %}
+      {% include post_listing/post.html post=post %}
+    {% endif %}
+  {% endif %}
 {% endfor %}
