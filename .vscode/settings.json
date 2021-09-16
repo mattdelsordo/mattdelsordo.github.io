@@ -1,0 +1,8 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "sissel.shopify-liquid",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": false
+    }
+  }
+}
