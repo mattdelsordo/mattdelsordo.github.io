@@ -42,7 +42,7 @@ unlisted: 1
 | MewnBase                                                                         |                                                                   |
 | Minit                                                                            |                                                                   |
 | **Monster Hunter: World**                                                        | [**23 Jan 2021**]({% post_url backlog/2021-01-23-mhw %})          |
-| Mutazione                                                                        |                                                                   |
+| **Mutazione**                                                                    | [**19 Sept 2021**]({% post_url backlog/2021-09-19-mutazione %})   |
 | **Night in the Woods**                                                           | [**15 Jan 2021**]({% post_url backlog/2021-01-15-nitw %})         |
 | OneShot                                                                          |                                                                   |
 | **Outer Wilds**                                                                  | [**21 Nov 2020**]({% post_url backlog/2020-11-21-outerwilds %})   |
