@@ -31,6 +31,9 @@ The exploration of the rise and fall of civilizations via architecture was VERY 
 
 <p>
 That said, my one gripe with <i>The Forgotten City</i> is that its lore rests on weird assumptions about how ancient paganism worked. One of the central themes here is the cycle of conquest in which the Romans do to the Greeks what the Greeks to to the Egyptians etc. etc. The Greek and Egyptian characters you meet are mad at the theft of their religious heritage, and this drives part of the plot, but my understanding of ancient paganism is that people understood that foreigners had alternate names for the same gods? Like, these cultures didn't all have very similar pantheons because they <i>stole</i> them, it's because they are all geographically adjacent and religious ideas spread around organically. Pagans would actively identify their own gods with other peoples' gods as a way of understanding each others' cultures. They were also very accommodating of dieties from elsewhere, that's like paganism's central feature, no one was going to be mad if you decide you want to worship a new god, you pick one you like, and go to their temple, and not everyones doing the same thing but that's fine! It's paganism! So Georgius and especially Khabash's anger felt really misplaced to me. Trying to reason Khabash out of his anxiety that his religion was just a "copy" of Sumerian religion was aggravating because I felt like he should already accept that other people worship the same gods but differently, since that's how his world works.
+
+EDIT: <a href="https://en.wikipedia.org/wiki/Interpretatio_graeca#Greco-Roman_equivalents">see here for what I mean</a>, ancient paganism was way more inclusive of other, foreign religious ideas than modern monotheistic religions tend to be.
+
 </p>
 
 <p>
