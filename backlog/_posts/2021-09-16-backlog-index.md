@@ -51,7 +51,7 @@ unlisted: 1
 | **Pikuniku**                                                                     | [**24 Aug 2020**]({% post_url backlog/2020-08-24-pikuniku %})       |
 | Pillars of Dust                                                                  |                                                                     |
 | Psychonauts                                                                      |                                                                     |
-| Pyre                                                                             |                                                                     |
+| **Pyre**                                                                         | [**04 Oct 2021**]({% post_url backlog/2021-10-04-pyre %})           |
 | Quadrilateral Cowboy                                                             |                                                                     |
 | **Slay the Spire**                                                               | [**16 Jan 2021**]({% post_url backlog/2021-01-16-slaythespire %})   |
 | Speed Dating for Ghosts                                                          |                                                                     |
