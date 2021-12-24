@@ -19,8 +19,10 @@ unlisted: 1
 | 2064: Read Only Memories                                                         |                                                                     |
 | A Mortician's Tale                                                               |                                                                     |
 | **A Short Hike**                                                                 | [**15 Jul 2020**]({% post_url backlog/2020-07-15-ashorthike %})     |
+| Bastion                                                                          |                                                                     |
 | **Bioshock**                                                                     | [**20 Sept 2020**]({% post_url backlog/2020-09-20-bioshock %})      |
 | Braid                                                                            |                                                                     |
+| Carto                                                                            |                                                                     |
 | Catlateral Damage                                                                |                                                                     |
 | Control                                                                          |                                                                     |
 | Crest                                                                            |                                                                     |
@@ -33,9 +35,11 @@ unlisted: 1
 | **Fallout 2**                                                                    | [**24 Sept 2020**]({% post_url backlog/2020-09-24-fallout2 %})      |
 | **Firewatch**                                                                    | [**13 Aug 2020**]({% post_url backlog/2020-08-13-firewatch %})      |
 | **The Forgotten City**                                                           | [**28 Sept 2021**]({% post_url backlog/2021-09-28-forgottencity %}) |
+| Graveyard Keeper                                                                 |                                                                     |
 | **Half Life**                                                                    | [**17 Jul 2020**]({% post_url backlog/2020-07-17-halflife %})       |
 | Half Life 2                                                                      |                                                                     |
 | Hitman                                                                           |                                                                     |
+| Into the Breach                                                                  |                                                                     |
 | **Kids**                                                                         | [**18 Jan 2021**]({% post_url backlog/2021-01-18-kids %})           |
 | **Star Wars: Knights of the Old Republic**                                       | [**11 Feb 2021**]({% post_url backlog/2021-02-11-kotor %})          |
 | Long-Gone Days                                                                   |                                                                     |
@@ -43,6 +47,7 @@ unlisted: 1
 | Minit                                                                            |                                                                     |
 | **Monster Hunter: World**                                                        | [**23 Jan 2021**]({% post_url backlog/2021-01-23-mhw %})            |
 | **Mutazione**                                                                    | [**19 Sept 2021**]({% post_url backlog/2021-09-19-mutazione %})     |
+| Necrobarista: The Final Pour                                                     |                                                                     |
 | **Night in the Woods**                                                           | [**15 Jan 2021**]({% post_url backlog/2021-01-15-nitw %})           |
 | OneShot                                                                          |                                                                     |
 | **Outer Wilds**                                                                  | [**21 Nov 2020**]({% post_url backlog/2020-11-21-outerwilds %})     |
@@ -57,6 +62,7 @@ unlisted: 1
 | Speed Dating for Ghosts                                                          |                                                                     |
 | Sunless Sea                                                                      |                                                                     |
 | Terra Nil (demo)                                                                 |                                                                     |
+| Transistor                                                                       |                                                                     |
 | The Stanley Parable                                                              |                                                                     |
 | The Stillness of the Wind                                                        |                                                                     |
 | The Witcher 2                                                                    |                                                                     |
