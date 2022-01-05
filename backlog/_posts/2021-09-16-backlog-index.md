@@ -27,7 +27,7 @@ unlisted: 1
 | Control                                                                          |                                                                     |
 | Crest                                                                            |                                                                     |
 | **Deus Ex**                                                                      | [**11 Jan 2021**]({% post_url backlog/2021-01-11-deusex %})         |
-| Disco Elysium                                                                    |                                                                     |
+| **Disco Elysium**                                                                | [**4 Jan 2022**]({% post_url backlog/2022-01-04-discoelysium%})     |
 | **Donut County**                                                                 | [**28 Jul 2020**](% post_url backlog/2020-07-28-donutcounty %)      |
 | Dorfromantik (demo)                                                              |                                                                     |
 | Dragon Age: Origins                                                              |                                                                     |
@@ -63,7 +63,6 @@ unlisted: 1
 | Sunless Sea                                                                      |                                                                     |
 | Terra Nil (demo)                                                                 |                                                                     |
 | Transistor                                                                       |                                                                     |
-| The Stanley Parable                                                              |                                                                     |
 | The Stillness of the Wind                                                        |                                                                     |
 | The Witcher 2                                                                    |                                                                     |
 | Tonight We Riot                                                                  |                                                                     |
