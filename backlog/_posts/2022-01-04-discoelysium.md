@@ -1,6 +1,6 @@
 ---
 layout: backlog
-title: "Matt's Video Game Backlog #20: Disco Elysium"
+title: "Matt's Video Game Backlog #20: Disco Elysium (2019)"
 date: 2022-01-04 23:00:00
 tags: [media, video game, disco elysium]
 comments: true

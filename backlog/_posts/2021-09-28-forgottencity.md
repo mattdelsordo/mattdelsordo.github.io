@@ -1,6 +1,6 @@
 ---
 layout: backlog
-title: "Matt's Video Game Backlog #18: The Forgotten City"
+title: "Matt's Video Game Backlog #18: The Forgotten City (2021)"
 date: 2021-09-28 12:00:00
 tags: [media, video game, the forgotten city]
 comments: true

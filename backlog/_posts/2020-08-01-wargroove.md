@@ -1,6 +1,6 @@
 ---
 layout: backlog
-title: "Matt's Video Game Backlog #4: Wargroove"
+title: "Matt's Video Game Backlog #4: Wargroove (2019)"
 date: 2020-08-01 17:00:00
 tags: [media, video game, wargroove]
 comments: true
