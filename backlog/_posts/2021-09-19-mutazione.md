@@ -1,6 +1,6 @@
 ---
 layout: backlog
-title: "Matt's Video Game Backlog #17: Mutazione"
+title: "Matt's Video Game Backlog #17: Mutazione (2019)"
 date: 2021-09-19 21:00:00
 tags: [media, video game, mutazione]
 comments: true

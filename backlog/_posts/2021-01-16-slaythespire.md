@@ -1,6 +1,6 @@
 ---
 layout: backlog
-title: "Matt's Video Game Backlog #13: Slay the Spire"
+title: "Matt's Video Game Backlog #13: Slay the Spire (2019)"
 date: 2021-01-16 13:00:00
 tags: [media, video game, slay the spire]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: backlog
-title: "Matt's Video Game Backlog #5: Firewatch"
+title: "Matt's Video Game Backlog #5: Firewatch (2016)"
 date: 2020-08-13 23:00:00
 tags: [media, video game, firewatch]
 comments: true
