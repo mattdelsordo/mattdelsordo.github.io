@@ -1,0 +1,199 @@
+@keyframes torterraS {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 99px)
+      calc(var(--spritesheet-height) - 337px);
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 159px)
+      calc(var(--spritesheet-height) - 337px);
+  }
+}
+
+@keyframes torterraN {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 100px)
+      calc(var(--spritesheet-height) - 471px);
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 162px)
+      calc(var(--spritesheet-height) - 471px);
+  }
+}
+
+@keyframes torterraW {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 95px)
+      calc(var(--spritesheet-height) - 403px);
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 175px)
+      calc(var(--spritesheet-height) - 403px);
+  }
+}
+
+@keyframes torterraE {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 97px)
+      calc(var(--spritesheet-height) - 540px);
+    height: 32px;
+    width: 39px;
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 178px)
+      calc(var(--spritesheet-height) - 540px);
+    height: 32px;
+    width: 38px;
+  }
+}
+
+@keyframes torterraNW {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 97px)
+      calc(var(--spritesheet-height) - 437px);
+    height: 32px;
+    width: 35px;
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 166px)
+      calc(var(--spritesheet-height) - 436px);
+    height: 32px;
+    width: 35px;
+  }
+}
+
+@keyframes torterraNE {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 99px)
+      calc(var(--spritesheet-height) - 505px);
+    height: 33px;
+    width: 34px;
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 167px)
+      calc(var(--spritesheet-height) - 505px);
+    height: 33px;
+    width: 35px;
+  }
+}
+
+@keyframes torterraSW {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 98px)
+      calc(var(--spritesheet-height) - 370px);
+    height: 32px;
+    width: 33px;
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 166px)
+      calc(var(--spritesheet-height) - 370px);
+    height: 29px;
+    width: 35px;
+  }
+}
+
+@keyframes torterraSE {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 97px)
+      calc(var(--spritesheet-height) - 574px);
+    height: 30px;
+    width: 35px;
+    transform: translateY(3px);
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 178px)
+      calc(var(--spritesheet-height) - 574px);
+    height: 33px;
+    width: 33px;
+  }
+}
+
+@keyframes torterraEat {
+  0% {
+    // open
+    background-position: calc(var(--spritesheet-width) - 230px)
+      calc(var(--spritesheet-height) - 339px);
+    height: 29px;
+    width: 28px;
+    transform: translateY(2px);
+  }
+  50% {
+    // munch
+    background-position: calc(var(--spritesheet-width) - 130px)
+      calc(var(--spritesheet-height) - 336px);
+    height: 31px;
+    width: 29px;
+    transform: translateY(0px);
+  }
+}
+
+@keyframes torterraSleep {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 318px)
+      calc(var(--spritesheet-height) - 338px);
+    height: 28px;
+    width: 29px;
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 348px)
+      calc(var(--spritesheet-height) - 338px);
+    height: 30px;
+    width: 29px;
+  }
+}
+
+.torterra {
+  --torterra-size-factor: 2;
+  animation: torterraS
+    calc(var(--turtwig-walk-speed) * var(--torterra-size-factor)) step-end
+    infinite;
+
+  &.S {
+    height: 31px;
+    width: 29px;
+    animation-name: torterraS;
+  }
+
+  &.N {
+    height: 31px;
+    width: 29px;
+    animation-name: torterraN;
+  }
+
+  &.W {
+    height: 31px;
+    width: 38px;
+    animation-name: torterraW;
+  }
+
+  &.E {
+    animation-name: torterraE;
+  }
+
+  &.NE {
+    animation-name: torterraNE;
+  }
+
+  &.NW {
+    animation-name: torterraNW;
+  }
+
+  &.SE {
+    animation-name: torterraSE;
+  }
+
+  &.SW {
+    animation-name: torterraSW;
+  }
+
+  &.eat {
+    animation-duration: calc(
+      var(--turtwig-eat-speed) * var(--torterra-size-factor)
+    );
+    animation-name: torterraEat;
+  }
+
+  &.sleep {
+    animation-duration: var(--turtwig-sleep-speed);
+    animation-name: torterraSleep;
+  }
+}

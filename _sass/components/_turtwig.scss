@@ -1,0 +1,154 @@
+@keyframes turtS {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 34px)
+      calc(var(--spritesheet-height) - 29px);
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 53px)
+      calc(var(--spritesheet-height) - 29px);
+  }
+}
+
+@keyframes turtN {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 38px)
+      calc(var(--spritesheet-height) - 120px);
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 55px)
+      calc(var(--spritesheet-height) - 120px);
+  }
+}
+
+@keyframes turtEW {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 36px)
+      calc(var(--spritesheet-height) - 75px);
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 57px)
+      calc(var(--spritesheet-height) - 75px);
+  }
+}
+
+@keyframes turtNWNE {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 38px)
+      calc(var(--spritesheet-height) - 98px);
+    height: 21px;
+    width: 14px;
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 55px)
+      calc(var(--spritesheet-height) - 98px);
+    height: 20px;
+    width: 19px;
+  }
+}
+
+@keyframes turtSWSE {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 36px)
+      calc(var(--spritesheet-height) - 52px);
+    height: 21px;
+    width: 17px;
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 55px)
+      calc(var(--spritesheet-height) - 52px);
+    height: 20px;
+    width: 15px;
+  }
+}
+
+@keyframes turtEat {
+  0% {
+    // open
+    background-position: calc(var(--spritesheet-width) - 121px)
+      calc(var(--spritesheet-height) - 32px);
+    height: 18px;
+    width: 13px;
+  }
+  50% {
+    // munch
+    background-position: calc(var(--spritesheet-width) - 90px)
+      calc(var(--spritesheet-height) - 33px);
+    height: 16px;
+    width: 13px;
+    transform: translateY(2px);
+  }
+}
+
+@keyframes turtSleep {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 179px)
+      calc(var(--spritesheet-height) - 29px);
+    height: 20px;
+    width: 16px;
+    transform: translateY(0px);
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 197px)
+      calc(var(--spritesheet-height) - 30px);
+    height: 19px;
+    width: 16px;
+    transform: translateY(1px);
+  }
+}
+
+.turtwig {
+  animation: turtS var(--turtwig-walk-speed) step-end infinite;
+
+  &.S {
+    height: 21px;
+    width: 13px;
+    animation-name: turtS;
+  }
+
+  &.N {
+    height: 21px;
+    width: 13px;
+    animation-name: turtN;
+  }
+
+  &.W {
+    height: 19px;
+    width: 19px;
+    animation-name: turtEW;
+  }
+
+  &.E {
+    height: 19px;
+    width: 19px;
+    animation-name: turtEW;
+    transform: scaleX(-1);
+  }
+
+  &.NE {
+    animation-name: turtNWNE;
+    transform: scaleX(-1);
+  }
+
+  &.NW {
+    animation-name: turtNWNE;
+  }
+
+  &.SE {
+    animation-name: turtSWSE;
+    transform: scaleX(-1);
+  }
+
+  &.SW {
+    animation-name: turtSWSE;
+  }
+
+  &.eat {
+    animation-duration: var(--turtwig-eat-speed);
+    animation-name: turtEat;
+  }
+
+  &.sleep {
+    animation-duration: var(--turtwig-sleep-speed);
+    animation-name: turtSleep;
+  }
+}

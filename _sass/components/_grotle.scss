@@ -1,0 +1,158 @@
+@keyframes grotleS {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 37px)
+      calc(var(--spritesheet-height) - 178px);
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 59px)
+      calc(var(--spritesheet-height) - 177px);
+  }
+}
+
+@keyframes grotleN {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 35px)
+      calc(var(--spritesheet-height) - 278px);
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 59px)
+      calc(var(--spritesheet-height) - 279px);
+  }
+}
+
+@keyframes grotleEW {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 37px)
+      calc(var(--spritesheet-height) - 229px);
+    height: 21px;
+    width: 24px;
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 63px)
+      calc(var(--spritesheet-height) - 228px);
+    height: 22px;
+    width: 23px;
+  }
+}
+
+@keyframes grotleNWNE {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 36px)
+      calc(var(--spritesheet-height) - 254px);
+    height: 21px;
+    width: 23px;
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 61px)
+      calc(var(--spritesheet-height) - 253px);
+    height: 24px;
+    width: 22px;
+  }
+}
+
+@keyframes grotleSWSE {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 35px)
+      calc(var(--spritesheet-height) - 204px);
+    height: 21px;
+    width: 24px;
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 62px)
+      calc(var(--spritesheet-height) - 203px);
+    height: 24px;
+    width: 22px;
+  }
+}
+
+@keyframes grotleEat {
+  0% {
+    // open
+    background-position: calc(var(--spritesheet-width) - 130px)
+      calc(var(--spritesheet-height) - 175px);
+    height: 23px;
+    width: 21px;
+  }
+  50% {
+    // munch
+    background-position: calc(var(--spritesheet-width) - 97px)
+      calc(var(--spritesheet-height) - 176px);
+    height: 22px;
+    width: 19px;
+    transform: translateY(1px);
+  }
+}
+
+@keyframes grotleSleep {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 199px)
+      calc(var(--spritesheet-height) - 176px);
+    height: 21px;
+    width: 26px;
+    transform: translateY(0px);
+  }
+  50% {
+    background-position: calc(var(--spritesheet-width) - 226px)
+      calc(var(--spritesheet-height) - 177px);
+    height: 20px;
+    width: 26px;
+    transform: translateY(1px);
+  }
+}
+
+.grotle {
+  --grotle-size-factor: 1.5;
+  animation: grotleS calc(var(--turtwig-walk-speed) * var(--grotle-size-factor))
+    step-end infinite;
+
+  &.S {
+    height: 23px;
+    width: 20px;
+    animation-name: grotleS;
+  }
+
+  &.N {
+    height: 22px;
+    width: 19px;
+    animation-name: grotleN;
+  }
+
+  &.W {
+    animation-name: grotleEW;
+  }
+
+  &.E {
+    animation-name: grotleEW;
+    transform: scaleX(-1);
+  }
+
+  &.NE {
+    animation-name: grotleNWNE;
+    transform: scaleX(-1);
+  }
+
+  &.NW {
+    animation-name: grotleNWNE;
+  }
+
+  &.SE {
+    animation-name: grotleSWSE;
+    transform: scaleX(-1);
+  }
+
+  &.SW {
+    animation-name: grotleSWSE;
+  }
+
+  &.eat {
+    animation-duration: calc(
+      var(--turtwig-eat-speed) * var(--grotle-size-factor)
+    );
+    animation-name: grotleEat;
+  }
+
+  &.sleep {
+    animation-duration: var(--turtwig-sleep-speed);
+    animation-name: grotleSleep;
+  }
+}
