@@ -1,0 +1,60 @@
+:root {
+  --spritesheet-width: 385px;
+  --spritesheet-height: 610px;
+
+  --turtwig-walk-speed: 0.75s;
+  --turtwig-eat-speed: 0.25s;
+  --turtwig-sleep-speed: 3s;
+}
+
+body {
+  &.leaf {
+    cursor: url("./sprites/leaf.png"), auto;
+
+    &.eaten {
+      cursor: url("./sprites/leaf_eaten.png"), auto;
+    }
+  }
+}
+
+@keyframes eggBounce {
+  50% {
+    transform: translateY(-1px);
+  }
+}
+
+#turtwig {
+  top: 0px;
+  left: 0px;
+  background: url("./sprites/turt_sprites.png");
+  position: absolute;
+
+  &.banished {
+    display: none;
+  }
+}
+
+.egg {
+  animation: none;
+  background: url("./sprites/egg.png") !important;
+  width: 13px;
+  height: 14px;
+
+  &:hover {
+    animation: eggBounce 0.75s step-end infinite;
+  }
+}
+
+.turtContainer {
+  > div > div {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+
+    > .turtwig,
+    > .grotle,
+    > .torterra {
+      background: url("./sprites/turt_sprites.png");
+    }
+  }
+}
