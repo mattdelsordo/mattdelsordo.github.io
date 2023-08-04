@@ -96,6 +96,67 @@
   }
 }
 
+@keyframes turtSpin {
+  0% {
+    background-position: calc(var(--spritesheet-width) - 18px)
+      calc(var(--spritesheet-height) - 29px);
+    width: 13px;
+    height: 20px;
+  }
+
+  12.5% {
+    background-position: calc(var(--spritesheet-width) - 16px)
+      calc(var(--spritesheet-height) - 51px);
+    width: 16px;
+    height: 21px;
+  }
+
+  25% {
+    background-position: calc(var(--spritesheet-width) - 14px)
+      calc(var(--spritesheet-height) - 74px);
+    width: 20px;
+    height: 20px;
+  }
+
+  37.5% {
+    background-position: calc(var(--spritesheet-width) - 16px)
+      calc(var(--spritesheet-height) - 97px);
+    width: 17px;
+    height: 21px;
+  }
+
+  50% {
+    background-position: calc(var(--spritesheet-width) - 17px)
+      calc(var(--spritesheet-height) - 120px);
+    width: 14px;
+    height: 20px;
+  }
+
+  62.5% {
+    background-position: calc(var(--spritesheet-width) - 16px)
+      calc(var(--spritesheet-height) - 97px);
+    width: 17px;
+    height: 21px;
+    transform: scaleX(-1);
+  }
+
+  75% {
+    background-position: calc(var(--spritesheet-width) - 14px)
+      calc(var(--spritesheet-height) - 74px);
+    width: 20px;
+    height: 20px;
+    transform: scaleX(-1);
+  }
+
+  87.5% {
+    background-position: calc(var(--spritesheet-width) - 16px)
+      calc(var(--spritesheet-height) - 51px);
+    width: 16px;
+    height: 21px;
+    transform: scaleX(-1);
+  }
+}
+
 .turtwig {
   animation: turtS var(--turtwig-walk-speed) step-end infinite;
 
@@ -150,5 +211,10 @@
   &.sleep {
     animation-duration: var(--turtwig-sleep-speed);
     animation-name: turtSleep;
+  }
+
+  &.spin {
+    animation-duration: 4s;
+    animation-name: turtSpin;
   }
 }
