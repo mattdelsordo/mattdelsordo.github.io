@@ -158,10 +158,12 @@ footer {
 .adjacent-image-container {
   display: flex;
   flex-flow: row wrap;
+  justify-content: space-evenly;
 
-  img {
+  > img {
     flex: 1;
-    min-width: 0%;
+    max-width: 50%;
+    min-width: 30%;
     margin: 0.5em;
   }
 }
